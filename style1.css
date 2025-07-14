@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Arial", "Roboto", "sans-serif";
+}
+
+h1{ 
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style:normal;
+    line-height: 1.7999999999999998;
+}
+
+p{  
+    display:block;
+    text-align: center;
+    line-height: 3.0;
+}
+
+div{
+    display:block;
+    text-align: center;
+    line-height: 2.0;
+}
+
+
