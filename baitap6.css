@@ -1,0 +1,19 @@
+/* Thao tác với pseudo class :hover thành thạo */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgb(233, 233, 190);
+}
+button {
+  background-color: #f0f0f0;
+  color: black;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: green; /* Màu nền khi hover */
+  color: white; /* Màu chữ khi hover */
+}
