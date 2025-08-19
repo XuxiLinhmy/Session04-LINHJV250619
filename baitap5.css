@@ -1,0 +1,13 @@
+/* Nhúng CSS vào trang HTML */
+
+p {
+  background-color: rgb(244, 227, 221);
+  text-align: left;
+  margin-left: 40px;
+}
+.text-red {
+  color: red;
+}
+#text-pink {
+  color: pink;
+}
